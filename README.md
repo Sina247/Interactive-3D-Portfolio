@@ -1,4 +1,4 @@
-# 🌟 Modern 3D Portfolio
+# 🖥️ Sina Ahmadi Portfolio
 
 A modern, visually immersive developer portfolio built to showcase frontend expertise through smooth animations, interactive 3D elements and clean architecture. Built with **Next.js, Three.js, Framer Motion and Tailwind CSS**, it delivers high performance, responsiveness and a premium UI/UX experience.
 
